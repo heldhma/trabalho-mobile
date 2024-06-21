@@ -1,2 +1,2 @@
-# Mobile-App
-App React Native + API + Geolocalização + Mapa
+# trabalho mobile
+usando react + API + geolocalização + mapa
